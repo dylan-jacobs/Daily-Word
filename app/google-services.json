@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952491021757",
+    "project_id": "daily-word-f877c",
+    "storage_bucket": "daily-word-f877c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952491021757:android:f3d7fb2094671899be6ed4",
+        "android_client_info": {
+          "package_name": "com.jacobstechnologies.dailyword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952491021757-tdv171cp0sddak8fuuaeld1b5fqljt7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0mf7kJFNh7PlwgrsTYR0dF0ZiDP1bbls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952491021757-tdv171cp0sddak8fuuaeld1b5fqljt7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

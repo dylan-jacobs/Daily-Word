@@ -1,0 +1,23 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dylan/Documents/AndroidStudioProjects/DailyWord/app/src/main/res/drawable-anydpi/questionm]ark.xml" value="0.1525" />
+        <entry key="..\:/Users/dylan/Documents/AndroidStudioProjects/DailyWord/app/src/main/res/drawable/round_rect.xml" value="0.1765" />
+        <entry key="..\:/Users/dylan/Documents/AndroidStudioProjects/DailyWord/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/dylan/Documents/AndroidStudioProjects/DailyWord/app/src/main/res/layout/activity_navigation.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/dylan/Documents/AndroidStudioProjects/DailyWord/app/src/main/res/layout/fragment_dashboard.xml" value="0.24662162162162163" />
+        <entry key="..\:/Users/dylan/Documents/AndroidStudioProjects/DailyWord/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/dylan/Documents/AndroidStudioProjects/DailyWord/app/src/main/res/layout/fragment_notifications.xml" value="0.264" />
+        <entry key="..\:/Users/dylan/Documents/AndroidStudioProjects/DailyWord/app/src/main/res/layout/slide_page.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/dylan/Documents/AndroidStudioProjects/DailyWord/app/src/main/res/menu/bottom_nav_menu.xml" value="0.15416666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">The Dad App</string>
+    <string name="title_home">Home</string>
+    <string name="title_spanish">Spanish</string>
+    <string name="title_settings">"???????"</string>
+    <string name="a_jacobstechnologies_app">A <b>JacobsTechnologies</b> app</string>
+    <string name="image">Image</string>
+    <string name="hide_answer">Hide answer</string>
+    <string name="reveal_answer">Reveal answer</string>
+    <string name="riddle_me_this">Riddle me this...</string>
+    <string name="palabra_del_d_a">Palabra del Día</string>
+    <string name="galer_a_de_fotos">Galería de Fotos</string>
+</resources>

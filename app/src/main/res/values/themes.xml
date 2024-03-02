@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.DailyWord" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
+        <item name="android:textViewStyle">@style/TextStyle</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="TextStyle" parent="Widget.AppCompat.TextView">
+        <item name="android:fontFamily">casual</item>
+    </style>
+
+    <style name="LinearLayout" parent="android:Theme.Holo.Light">
+        <item name="android:background">@drawable/round_rect</item>
+        <item name="android:backgroundTint">@color/grey_light</item>
+        <item name="android:textViewStyle">@style/TextStyle</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+</resources>
